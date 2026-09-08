@@ -23,7 +23,7 @@ baidu_site_verification  : false # get baidu_site_verification from https://ziyu
 author:
   name             : "David Iagaru"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ecole Polytechnique"
+  bio              : "Ecole Polytechnique, German Aerospace Center (DLR)"
   location         : "Paris (France), Munich (Germany)"
   employer         :
   pubmed           : 
