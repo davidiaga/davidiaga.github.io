@@ -28,7 +28,7 @@ Before starting my PhD, I graduated from the [Master 2 Mathématiques, Vision, A
 
 ## News
 
-<div class="news-scroll" markdown="1">
+<div class="news-section" markdown="1">
 
 - **July 2026** — Our mini-symposium proposal for [SIAM Imaging Science 2026](https://www.siam.org/conferences-events/siam-conferences/is26/) has been accepted. See you in Salt Lake City in November for **Theoretical and Computational Perspectives on Hallucinations in Image Reconstruction**.
 - **June 2026** — I presented our work, *Average Kernel Sizes — Computable Sharp Accuracy Bounds for Inverse Problems*, at the HAICON conference in Munich.
@@ -69,20 +69,40 @@ See the complete and up-to-date lists on [Google Scholar](https://scholar.google
 ## Education & Background
 
 <div class="timeline">
-  <div class="timeline-item"><div class="timeline-date">2025 — present</div><div><strong>PhD in Applied Mathematics</strong><br>École Polytechnique & German Aerospace Center (DLR)<br><span>Trustworthy AI, inverse problems, and Earth observation</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2023 — 2024</div><div><strong>Master 2 Mathématiques, Vision, Apprentissage (MVA)</strong><br>Université Paris-Saclay · ENS Paris-Saclay</div></div>
-  <div class="timeline-item"><div class="timeline-date">2020 — 2024</div><div><strong>Engineering degree</strong><br>CentraleSupélec</div></div>
+  <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2025 — present</span><strong>PhD in Applied Mathematics</strong><br>École Polytechnique & German Aerospace Center (DLR)<br><span>Trustworthy AI, inverse problems, and Earth observation</span></div></div>
+  <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2023 — 2024</span><strong>Master 2 Mathématiques, Vision, Apprentissage (MVA)</strong><br>Université Paris-Saclay · ENS Paris-Saclay</div></div>
+  <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2020 — 2024</span><strong>Engineering degree</strong><br>CentraleSupélec</div></div>
 </div>
 
 <span class="anchor" id="experience"></span>
 
 ## Experience
 
-<div class="timeline">
-  <div class="timeline-item"><div class="timeline-date">2025 — present</div><div><strong>Doctoral Researcher</strong><br>German Aerospace Center (DLR), Munich & École Polytechnique, Paris</div></div>
-  <div class="timeline-item"><div class="timeline-date">Oct. 2025</div><div><strong>Visiting Researcher</strong><br>Department of Applied Mathematics and Theoretical Physics, University of Cambridge<br><span>Research with Anders C. Hansen</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2024</div><div><strong>Master’s Thesis Researcher</strong><br>Centre Borelli<br><span>Image forgery detection via double compression</span></div></div>
-  <div class="timeline-item"><div class="timeline-date">2023</div><div><strong>Research Intern</strong><br>German Aerospace Center (DLR)<br><span>Uncertainty quantification for Sentinel-2 super-resolution</span></div></div>
+<div class="experience-list">
+  <article class="experience-card">
+    <div class="experience-meta"><span class="experience-date">Feb. 2025 — present</span><span class="experience-place">Munich · Palaiseau</span></div>
+    <div class="experience-body"><h3>Doctoral Researcher</h3><div class="experience-company">German Aerospace Center (DLR) · École Polytechnique, CMAP</div><ul><li>Develop mathematical guarantees for anticipating and detecting AI hallucinations in inverse problems.</li><li>Design provable assessment methods for learned reconstruction systems, with applications in Earth observation and medical imaging.</li><li>Co-supervised by Nina Gottschling and Josselin Garnier.</li></ul></div>
+  </article>
+  <article class="experience-card">
+    <div class="experience-meta"><span class="experience-date">Oct. 2025</span><span class="experience-place">Cambridge, UK</span></div>
+    <div class="experience-body"><h3>Visiting Researcher</h3><div class="experience-company">University of Cambridge · DAMTP</div><ul><li>Conducted research with Anders C. Hansen on the mathematical foundations of inverse problems and trustworthy reconstruction.</li><li>Attended Part III courses in Mixing Times of Markov Chains and Random Discrete Structures.</li></ul></div>
+  </article>
+  <article class="experience-card">
+    <div class="experience-meta"><span class="experience-date">May — Oct. 2024</span><span class="experience-place">Gif-sur-Yvette, France</span></div>
+    <div class="experience-body"><h3>Master’s Thesis Researcher</h3><div class="experience-company">Centre Borelli · ENS Paris-Saclay</div><ul><li>Proposed a method to detect and localize image manipulations caused by double compression.</li><li>Built the approach on a contrario detection theory under the supervision of Quentin Bammey, Yanhao Li, and Rafael Grompone von Gioi.</li></ul></div>
+  </article>
+  <article class="experience-card">
+    <div class="experience-meta"><span class="experience-date">Feb. — Aug. 2023</span><span class="experience-place">Munich, Germany</span></div>
+    <div class="experience-body"><h3>Research Intern</h3><div class="experience-company">German Aerospace Center (DLR) · MF-DAS</div><ul><li>Studied uncertainty quantification for deep-learning methods applied to Sentinel-2 satellite-image super-resolution.</li><li>Presented the work at MaxEnt 2023 and co-authored the associated conference paper.</li></ul></div>
+  </article>
+  <article class="experience-card">
+    <div class="experience-meta"><span class="experience-date">2022</span><span class="experience-place">Paris, France</span></div>
+    <div class="experience-body"><h3>Data Science Project Member</h3><div class="experience-company">Paris Digital Lab · CentraleSupélec</div><ul><li>Worked in a multidisciplinary, project-based innovation environment on an industry data-science challenge.</li><li>Contributed from problem framing and prototyping through technical delivery and stakeholder presentation.</li></ul></div>
+  </article>
+  <article class="experience-card">
+    <div class="experience-meta"><span class="experience-date">2020 — 2021</span><span class="experience-place">Gif-sur-Yvette, France</span></div>
+    <div class="experience-body"><h3>IT Manager</h3><div class="experience-company">Raid CentraleSupélec</div><ul><li>Managed the association’s digital tools and IT infrastructure for the organization of large student outdoor-sports events.</li><li>Supported the organizing team with reliable systems, access management, and technical problem-solving.</li></ul></div>
+  </article>
 </div>
 
 <span class="anchor" id="beyond-research"></span>
@@ -92,11 +112,11 @@ See the complete and up-to-date lists on [Google Scholar](https://scholar.google
 ### Languages
 
 <div class="language-grid">
-  <div><strong>French</strong><span>Native</span></div>
-  <div><strong>Romanian</strong><span>Native speaking; adventurous writing</span></div>
-  <div><strong>English</strong><span>Proficient</span></div>
-  <div><strong>German</strong><span>B2–C1, from the beginning to the end of my stays in Munich</span></div>
-  <div><strong>Chinese</strong><span>A2 according to Duolingo, plus a few four-word combinations</span></div>
+  <div class="language-item"><span class="language-name">French</span><span class="language-level">Native</span></div>
+  <div class="language-item"><span class="language-name">Romanian</span><span class="language-level">Native speaking · adventurous writing</span></div>
+  <div class="language-item"><span class="language-name">English</span><span class="language-level">Full professional proficiency</span></div>
+  <div class="language-item"><span class="language-name">German</span><span class="language-level">Professional working proficiency · B2–C1</span></div>
+  <div class="language-item"><span class="language-name">Chinese</span><span class="language-level">Elementary · A2</span></div>
 </div>
 
 ### Other interests
