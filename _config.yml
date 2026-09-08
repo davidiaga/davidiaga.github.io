@@ -28,6 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Iagaru%2C+D"
   email            : "david.iagaru@polytechnique.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

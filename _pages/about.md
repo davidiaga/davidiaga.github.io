@@ -1,58 +1,106 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Research in applied mathematics for trustworthy AI and Earth observation."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class="anchor" id="about"></span>
 
-<span class='anchor' id='about-me'></span>
+## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a PhD student in applied mathematics for trustworthy AI, supervised by [Josselin Garnier](https://josselin-garnier.org/) and [Nina Gottschling](https://www.ornl.gov/staff-profile/nina-m-gottschling).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I work on the **detection and anticipation of AI hallucinations in inverse problems**, with a focus on Earth observation applications.
 
+Before starting my PhD, I graduated from the [Master 2 Mathématiques, Vision, Apprentissage (MVA)](https://www.master-mva.com/) and [CentraleSupélec](https://www.centralesupelec.fr/).
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+### Research interests
 
-# 📝 Publications 
+- **AI hallucinations in inverse problems:** theoretical and computational perspectives for anticipation and detection
+- **Out-of-distribution detection:** theoretical guarantees and limits
+- **Earth observation**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<span class="anchor" id="news"></span>
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## News
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+<div class="news-scroll" markdown="1">
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **July 2026** — Our mini-symposium proposal for [SIAM Imaging Science 2026](https://www.siam.org/conferences-events/siam-conferences/is26/) has been accepted. See you in Salt Lake City in November for **Theoretical and Computational Perspectives on Hallucinations in Image Reconstruction**.
+- **June 2026** — I presented our work, *Average Kernel Sizes — Computable Sharp Accuracy Bounds for Inverse Problems*, at the HAICON conference in Munich.
+- **May 2026** — I presented the work from our latest preprint as an invited speaker at the Math4AI lab seminar at LMU Munich.
+- **May 2026** — Our new preprint is out: [*On Hallucinations in Inverse Problems: Fundamental Limits and Provable Assessment Methods*](https://arxiv.org/abs/2605.13146).
+- **October 2025** — I began a research stay in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge, working under the supervision of Anders C. Hansen. I also attended the Part III courses *Mixing Times of Markov Chains* and *Random Discrete Structures*.
+- **October 2025** — Our preprint [*Average Kernel Sizes — Computable Sharp Accuracy Bounds for Inverse Problems*](https://arxiv.org/abs/2510.10229) is out. We provide computable, sharp accuracy bounds for the reconstruction error of solution methods for inverse problems.
+- **February 2025** — I officially started my PhD with Nina Gottschling and Josselin Garnier at the German Aerospace Center (Munich) and École Polytechnique (Paris).
+- **May 2024** — I started my master’s thesis on image forgery detection via double compression at Centre Borelli, with [Quentin Bammey](https://bammey.com/), [Yanhao Li](https://scholar.google.com/citations?user=U5pvqjsAAAAJ&hl=en), and [Rafael Grompone](https://scholar.google.com/citations?user=GLovf4UAAAAJ&hl=en).
+- **July 2023** — I presented [*Uncertainty Quantification with Deep Ensemble Methods for Super-Resolution of Sentinel-2 Satellite Images*](https://www.mdpi.com/2673-9984/9/1/4) at the 42nd MaxEnt conference.
+- **February 2023** — I started an internship at the German Aerospace Center (DLR) with Nina Gottschling and Mihai Datcu.
+
 </div>
+
+<span class="anchor" id="publications"></span>
+
+## Publications
+
+<div class="publication-list">
+  <article class="publication">
+    <span class="pub-year">2026</span>
+    <div><a class="pub-title" href="https://arxiv.org/abs/2605.13146">On Hallucinations in Inverse Problems: Fundamental Limits and Provable Assessment Methods</a><br><span class="pub-venue">Preprint · arXiv:2605.13146</span></div>
+  </article>
+  <article class="publication">
+    <span class="pub-year">2025</span>
+    <div><a class="pub-title" href="https://arxiv.org/abs/2510.10229">Average Kernel Sizes — Computable Sharp Accuracy Bounds for Inverse Problems</a><br><span class="pub-venue">Preprint · arXiv:2510.10229</span></div>
+  </article>
+  <article class="publication">
+    <span class="pub-year">2023</span>
+    <div><a class="pub-title" href="https://www.mdpi.com/2673-9984/9/1/4">Uncertainty Quantification with Deep Ensemble Methods for Super-Resolution of Sentinel-2 Satellite Images</a><br><span class="pub-venue">Proceedings of the 42nd International Workshop on Bayesian Inference and Maximum Entropy Methods in Science and Engineering</span></div>
+  </article>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+See the complete and up-to-date lists on [Google Scholar](https://scholar.google.com/scholar?q=%22David+Iagaru%22) and [arXiv](https://arxiv.org/search/?searchtype=author&query=Iagaru%2C+D).
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<span class="anchor" id="education"></span>
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Education & Background
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+<div class="timeline">
+  <div class="timeline-item"><div class="timeline-date">2025 — present</div><div><strong>PhD in Applied Mathematics</strong><br>École Polytechnique & German Aerospace Center (DLR)<br><span>Trustworthy AI, inverse problems, and Earth observation</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2023 — 2024</div><div><strong>Master 2 Mathématiques, Vision, Apprentissage (MVA)</strong><br>Université Paris-Saclay · ENS Paris-Saclay</div></div>
+  <div class="timeline-item"><div class="timeline-date">2020 — 2024</div><div><strong>Engineering degree</strong><br>CentraleSupélec</div></div>
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<span class="anchor" id="experience"></span>
+
+## Experience
+
+<div class="timeline">
+  <div class="timeline-item"><div class="timeline-date">2025 — present</div><div><strong>Doctoral Researcher</strong><br>German Aerospace Center (DLR), Munich & École Polytechnique, Paris</div></div>
+  <div class="timeline-item"><div class="timeline-date">Oct. 2025</div><div><strong>Visiting Researcher</strong><br>Department of Applied Mathematics and Theoretical Physics, University of Cambridge<br><span>Research with Anders C. Hansen</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2024</div><div><strong>Master’s Thesis Researcher</strong><br>Centre Borelli<br><span>Image forgery detection via double compression</span></div></div>
+  <div class="timeline-item"><div class="timeline-date">2023</div><div><strong>Research Intern</strong><br>German Aerospace Center (DLR)<br><span>Uncertainty quantification for Sentinel-2 super-resolution</span></div></div>
+</div>
+
+<span class="anchor" id="beyond-research"></span>
+
+## Beyond Research
+
+### Languages
+
+<div class="language-grid">
+  <div><strong>French</strong><span>Native</span></div>
+  <div><strong>Romanian</strong><span>Native speaking; adventurous writing</span></div>
+  <div><strong>English</strong><span>Proficient</span></div>
+  <div><strong>German</strong><span>B2–C1, from the beginning to the end of my stays in Munich</span></div>
+  <div><strong>Chinese</strong><span>A2 according to Duolingo, plus a few four-word combinations</span></div>
+</div>
+
+### Other interests
+
+- **🤾 Handball.** I have played since I was eleven. I no longer play weekly matches, but take every chance to play for fun—at university and now with Zentraler Hochschulsport (ZHS) München.
+- **🚴 Cycling.** Mont Ventoux, I am coming! ⛰️
+- **🎺 Trumpet.** I played in marching bands during university. Keeping up the motivation is harder when a mute is needed to keep the neighbours happy, but I hope to play regularly again.
