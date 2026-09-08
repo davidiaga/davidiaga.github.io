@@ -1,4 +1,21 @@
 <script src="{{ '/assets/js/main.min.js' | relative_url }}"></script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('a[href]').forEach(function (link) {
+      try {
+        var destination = new URL(link.href, window.location.href);
+        if ((destination.protocol === 'http:' || destination.protocol === 'https:') &&
+            destination.hostname !== window.location.hostname) {
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+        }
+      } catch (error) {
+        // Leave malformed or non-standard links untouched.
+      }
+    });
+  });
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

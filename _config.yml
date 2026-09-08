@@ -8,6 +8,11 @@
 # Site Settings
 title                    : "David Iagaru"
 description              : "PhD student, Applied mathematics for Trustworthy AI, Earth Observation"
+profile_description:
+  - "PhD student,"
+  - "Applied mathematics"
+  - "for Trustworthy AI,"
+  - "Earth Observation"
 repository               : "davidiaga/davidiaga.github.io"
 google_scholar_stats_use_cdn : true
 

@@ -1,0 +1,24 @@
+- title: "On Hallucinations in Inverse Problems: Fundamental Limits and Provable Assessment Methods"
+  authors: "**David Iagaru**, Nina M. Gottschling, Anders C. Hansen, Josselin Garnier"
+  venue: "arXiv 2026"
+  image: /images/papers/hallucinations-inverse-problems.png
+  links:
+    - { name: Paper, url: "https://arxiv.org/abs/2605.13146" }
+    - { name: Code, url: "https://github.com/davidiaga/hallucinations_invpb" }
+
+- title: "Average Kernel Sizes — Computable Sharp Accuracy Bounds for Inverse Problems"
+  authors: "Nina M. Gottschling, **David Iagaru**, Jakob Gawlikowski, Ioannis Sgouralis"
+  venue: "arXiv 2025"
+  image: /images/papers/average-kernel-sizes.png
+  links:
+    - { name: Paper, url: "https://arxiv.org/abs/2510.10229" }
+    - { name: Code, url: "https://github.com/nm19000/AccuracyBounds" }
+
+- title: "Uncertainty Quantification with Deep Ensemble Methods for Super-Resolution of Sentinel-2 Satellite Images"
+  authors: "**David Iagaru**, Nina M. Gottschling"
+  venue: "MaxEnt 2023"
+  image: /images/papers/uncertainty-quantification-sentinel-2.png
+  links:
+    - { name: Paper, url: "https://www.mdpi.com/2673-9984/9/1/4" }
+    - { name: Code, url: "https://github.com/davidiaga/UQ_DSen2" }
+    - { name: Demo, url: "https://ipolcore.ipol.im/demo/clientApp/demo.html?id=77777000516" }
