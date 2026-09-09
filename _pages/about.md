@@ -58,7 +58,8 @@ See the complete and up-to-date lists on [Google Scholar](https://scholar.google
 <div class="timeline">
   <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2025 — present</span><strong>PhD in Applied Mathematics</strong><br>École Polytechnique & German Aerospace Center (DLR)<br><span>Trustworthy AI, inverse problems, and Earth observation</span></div></div>
   <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2023 — 2024</span><strong>Master 2 Mathématiques, Vision, Apprentissage (MVA)</strong><br>Université Paris-Saclay · ENS Paris-Saclay</div></div>
-  <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2020 — 2024</span><strong>Meng degree</strong><br>CentraleSupélec</div></div>
+  <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2021 — 2022</span><strong>Master 1 Mathématiques Fondamentales</strong><br>Université Paris-Saclay</div></div>
+  <div class="timeline-item"><div class="timeline-dot"></div><div class="timeline-content"><span class="timeline-date">2020 — 2024</span><strong>MEng degree</strong><br>CentraleSupélec</div></div>
 </div>
 
 <span class="anchor" id="experience"></span>
