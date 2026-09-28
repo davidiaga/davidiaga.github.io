@@ -110,5 +110,5 @@ See the complete and up-to-date lists on [Google Scholar](https://scholar.google
 ### Other interests
 
 - **🤾 Handball.** I have been playing since I was 11. I no longer play weekly matches, but take every chance to play for fun : at university and now with Zentraler Hochschulsport (ZHS) München.
-- **🚴 Cycling.** Mont Ventoux, I am coming! ⛰️
+- **🚴 Cycling.** I rode the Mont Ventoux from Bédoin. Now training for more legendary climbs of the Tour de France ! ⛰️
 - **🎺 Trumpet.** I played in marching bands during university. Keeping up the motivation is harder when a mute is needed to keep the neighbours happy, but I hope to play regularly again.
