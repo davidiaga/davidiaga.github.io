@@ -30,6 +30,8 @@ Before starting my PhD, I graduated from the [Master 2 Mathématiques, Vision, A
 
 <div class="news-section" markdown="1">
 
+- **November 2026** — I presented the work [*On Hallucinations in Inverse Problems: Fundamental Limits and Provable Assessment Methods*](https://arxiv.org/abs/2605.13146) at the minisymposium **Theoretical and Computational Perspectives on Hallucinations in Image Reconstruction** of [SIAM Imaging Science 2026](https://www.siam.org/conferences-events/siam-conferences/is26/program/program-abstracts/) conference in Salt Lake City.
+
 - **July 2026** — Our mini-symposium proposal for [SIAM Imaging Science 2026](https://www.siam.org/conferences-events/siam-conferences/is26/) has been accepted. See you in Salt Lake City in November for **Theoretical and Computational Perspectives on Hallucinations in Image Reconstruction**.
 - **June 2026** — I presented our work, *Performance Bounds for Reliability and Hallucination Risk in Remote-Sensing Super-Resolution*, at the [HAICON](https://haicon.cc/) conference in Munich.
 - **May 2026** — I presented the work from our latest preprint as an invited speaker at the Math4AI lab seminar at LMU Munich.
@@ -95,6 +97,11 @@ See the complete and up-to-date lists on [Google Scholar](https://scholar.google
 
 <span class="anchor" id="beyond-research"></span>
 
+## Honors
+
+- 2026 Recipient of the [*SIAM Travel Award*] (https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
+
+
 ## Beyond Research
 
 ### Languages
@@ -110,5 +117,5 @@ See the complete and up-to-date lists on [Google Scholar](https://scholar.google
 ### Other interests
 
 - **🤾 Handball.** I have been playing since I was 11. I no longer play weekly matches, but take every chance to play for fun : at university and now with Zentraler Hochschulsport (ZHS) München.
-- **🚴 Cycling.** I rode the Mont Ventoux from Bédoin. Now training for more legendary climbs of the Tour de France ! ⛰️
+- **🚴 Cycling.** I climbed the Mont Ventoux from Bédoin. Now training for more legendary climbs of the Tour de France ! ⛰️
 - **🎺 Trumpet.** I played in marching bands during university. Keeping up the motivation is harder when a mute is needed to keep the neighbours happy, but I hope to play regularly again.
