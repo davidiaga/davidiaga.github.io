@@ -99,7 +99,7 @@ See the complete and up-to-date lists on [Google Scholar](https://scholar.google
 
 ## Honors
 
-- 2026 Recipient of the [*SIAM Travel Award*] (https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
+- 2026 Recipient of the [SIAM Travel Award](https://www.siam.org/conferences-events/conference-support/travel-and-registration-support/)
 
 
 ## Beyond Research
